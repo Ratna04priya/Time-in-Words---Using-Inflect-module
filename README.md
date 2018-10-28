@@ -3,8 +3,8 @@
 **_inflect.py_**
 *Inflection is a String transformation library.*
 *It helps in various ways like*
->convert numbers to words.
->Generating plurals,singular nouns,ordinals and  indefinite articles
+>1. convert numbers to words.
+>2. Generating plurals,singular nouns,ordinals and  indefinite articles
 ### Installation
 In Ubuntu
 For python version 2 - ```$ pip install inflect```
