@@ -6,10 +6,12 @@
 >convert numbers to words.
 >Generating plurals,singular nouns,ordinals and  indefinite articles
 ### Installation
-For python version 2 - ```[pip install inflect]```
+In Ubuntu
+For python version 2 - ```$ pip install inflect```
 
-For python version 3 -``` [pip3 install inflect]```
-
+For python version 3 -``` $ pip3 install inflect```
+ 
+Or Directly refer to https://pypi.python.org/pypi/inflect
 
 
 
